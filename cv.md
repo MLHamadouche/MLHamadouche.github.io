@@ -25,8 +25,8 @@ supervised by Prof. Ross McLure
 *BSc in Astrophysics*
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Publications *(significant author
-contribution, most recent)*</h3>
+<h3 style="color:rgb(242,99,152)">Publications (significant author
+contribution, most recent)</h3>
 
 **M. L. Hamadouche**, K. Whitaker, F. Valentino, K. Ito et al.
 *DeepDive: DeepDive: Tracing early quenching pathways of massive
@@ -82,7 +82,7 @@ Astrophysics, Sexten* *2022*
 ------------------------------------------------------------------------
 <h3 style="color:rgb(242,99,152)">Mentoring & Teaching</h3>
 
-***Mentees:*  **
+***Mentees:***
 *Pranav Sasheeth,* *PENGUIN mentee*, University of Florida *2025 -
 2026*  
 *Madisyn Brooks,* *PENGUIN mentee*, University of Connecticutt *2025 -
@@ -90,7 +90,7 @@ Astrophysics, Sexten* *2022*
 *Hope Roundcount,* *Undergraduate Research Project*, UMass Amherst
 *2024 - 2025*
 
-***Courses: (all taught at the University of Edinburgh)*  **
+***Courses: (all taught at the University of Edinburgh)***
 *Physics 1B Laboratory*, First Year Pre-Honours *2020 - 2024*  
 *Telescope Group Project*, Senior Honours *2020 - 2023*  
 *Discovering Astronomy*, First Year Pre-Honours *2021 - 2023*  
