@@ -8,7 +8,7 @@ redirect_from:
   - /download/
 ---
 
-<h2 style="color:rgb(242,99,152)"> About Massi </h2>
+<h2 style="color:rgb(242,99,152)"> About Me \(o_o)/ </h2>
 <!--author-->
 
 <h2 style="color:rgb(242,99,152)"> Outreach </h2>
