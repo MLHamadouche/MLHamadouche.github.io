@@ -10,7 +10,6 @@ redirect_from:
 
 <h3 style="color:rgb(242,99,152)"> About Massi </h3>
 <!--author-->
-I am currently a postdoctoral research associate at the University of Massachusetts Amherst, working with Kate Whitaker & Francesco Valentino (at DAWN, Copenhagen) on the star-formation histories of massive quiescent galaxies at cosmic noon. Prior to this position, I completed a PhD at the Institute for Astronomy, University of Edinburgh, under the supervision of Ross McLure. I studied size-mass relations, star-formation histories and quenching mechanisms of quiescent galaxies at z ~ 1 using a range of data from the ESO Public Spectroscopic Survey VANDELS, and the JWST PRIMER program.
 
 <h3 style="color:rgb(242,99,152)"> Outreach </h3>
 
