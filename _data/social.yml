@@ -109,6 +109,9 @@ dropbox:
 ondrive:
   name: OneDrive
   icon: icon-ondrive
+orcid:
+  name: orcid
+  icon: assets/img/ORCID-iD_icon_32x32.png
 github:
   name: GitHub
   icon: icon-github
