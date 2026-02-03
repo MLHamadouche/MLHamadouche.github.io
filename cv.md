@@ -155,7 +155,7 @@ STEM event for middle schoolers from local underserved communities
 UMass Amherst, MA *2025*
 
 ------------------------------------------------------------------------
-<h3 style="color: pinkish">Skills</h3>
+<h3 style="color:rgb(242,99,152)">Skills</h3>
 
 |  |  |
 |:---|---:|
