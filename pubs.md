@@ -1,12 +1,11 @@
----
+<!-- ---
 layout: list
-title: Publications
-description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
+# title: Publications
+# description: >
+  # This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
+  # Check out the `blog` layout for comparison.
 grouped: true
----
-
+--- -->
 <h1 style="color:rgb(242,99,152)">Publications</h1>
 
 <h2 style="color:rgb(255, 123, 172)">First author</h2>
