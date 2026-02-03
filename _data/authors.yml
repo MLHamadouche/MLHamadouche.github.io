@@ -14,8 +14,6 @@ author1:
     I studied size-mass relations, star-formation histories and quenching mechanisms of quiescent galaxies at z ~ 1 
     using a range of data from the ESO Public Spectroscopic Survey VANDELS, and the JWST PRIMER program.
 
-    # Open `_data/authors.yml` to edit this text.
-
   # This photo will be used in the about section
   picture:
     path: "https://via.placeholder.com/128x128"
@@ -28,13 +26,13 @@ author1:
     github: "MLHamadouche"
 
 # Another author (optional)
-author2:
-  name: "<firstname> <lastname>"
-  email: "<mail@domain.tld>"
-  about: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# author2:
+#   name: "<firstname> <lastname>"
+#   email: "<mail@domain.tld>"
+#   about: |
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-  picture: "https://placehold.it/128x128"
-  twitter: "<username>"
-  github: "<username>"
+#   picture: "https://placehold.it/128x128"
+#   twitter: "<username>"
+#   github: "<username>"
