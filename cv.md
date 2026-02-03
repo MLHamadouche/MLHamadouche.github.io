@@ -1,4 +1,4 @@
-<title style="color: pink" Massissilia Hamadouche>
+<title Massissilia Hamadouche>
 
 ------------------------------------------------------------------------
 <span style="color: pink">**Employment**</span>
