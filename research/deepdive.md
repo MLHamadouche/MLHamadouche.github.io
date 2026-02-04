@@ -1,13 +1,7 @@
 ---
-layout: page
+layout: project
 title: JWST DeepDive
-<!-- description: >
-  Massi's personal (academic \o/) website! -->
-last_modified_at: 2018-08-03
-no_link_title: true 
-no_excerpt: false 
-hide_image: true
-cover: false
+description: JWST Cycle 2 spectroscopic program targeting ten massive quiescent galaxies at 3 < z < 4.
 ---
 <!-- <h2 style="color:rgb(255, 123, 172)">JWST DeepDive</h2> -->
 <h3>
