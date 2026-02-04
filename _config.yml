@@ -200,7 +200,7 @@ hydejack:
   no_push_state:       false
 
   # Set to `true` if you want to disable the drawer
-  no_drawer:           false
+  no_drawer:           true
 
   # Set to `true` if you don't to use the auto-hiding (JavaScript based) navbar.
   # Note that this will not hide the navbar completely, only replace it with a static one.
@@ -218,19 +218,19 @@ hydejack:
 
   # Set to `true` if you don't intend on changing the accent color on a per-page basis. 
   # This will increase site build speed!
-  no_page_style:       false
+  no_page_style:       true
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
   no_break_layout:     true
 
   # Set to `true` to disable the dynamic Table of Contents on large screens.
-  no_toc:              false
+  no_toc:              true
 
   # When set to `true`, will not extend the content in the "third column" on large screens.
   # Instead, all content will remains within the center column.
   # Note that this will not affect the Table of Contents, use `no_toc` instead.
-  no_third_column:     false
+  no_third_column:     true
 
   # Set to `true` if you don't like oversized headlines on large screens.
   no_large_headings:   false
@@ -424,6 +424,6 @@ jekyll_compose:
         social media previews, etc.
       image:
         path: /assets/img/chandrawebb2_ngc346_jwst_hst.jpg
-      links:
-        - title: Project Link
-          url: https://example.com
+      # links:
+      #   - title: Project Link
+      #     url: https://example.com
