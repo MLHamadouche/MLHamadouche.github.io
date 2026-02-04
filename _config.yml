@@ -81,6 +81,10 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /:num/
 
+social:
+  github:  MLHamadouche
+  orcid:  0000-0001-6763-5551
+  # orcid: 0000-0002-1825-0097
 
 # Theme
 # ---------------------------------------------------------------------------------------
