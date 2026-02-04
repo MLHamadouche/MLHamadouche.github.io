@@ -41,6 +41,9 @@
 }
 
 @media (min-width: 48em) {
+   #_sidebar {
+    width: 15rem;  /* smaller than default if needed */
+  }
   .drawer-toggle,
   .menu-toggle,
   #_menu {
@@ -48,7 +51,6 @@
   }
   #_navbar { display: none }
 }
-
 
 .research-grid {
   display: grid;
