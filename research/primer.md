@@ -7,7 +7,7 @@ layout: page
 
 Using high-quality imaging and photometry from the JWST PRIMER Survey (PI: Dunlop), I selected large samples of quiescent galaxies over a wide stellar mass and redshift range to investigate whether or not low-mass quiescent galaxies are morphologically different to their higher mass counterparts. In this paper, I find that at all redshifts, low-mass quiescent galaxies are more disk-like than high-mass quiescent galaxies, and possess a shallower size-mass relation, more consistent with the star-forming relation over the same stellar-mass range.
 
-Click the figure below to be redirected to the paper! \(o)/
+<p style="color:rgb(255, 123, 172)">Click the figure below to be redirected to the paper! \(o)/</p>
 
 <figure class="figure"> <a href="https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.541..463H/doi:10.1093/mnras/staf971">
   <embed
