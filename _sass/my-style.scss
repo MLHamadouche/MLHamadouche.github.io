@@ -16,11 +16,14 @@
 //     --sidebar-width: 15rem;
 // }
 
-// @media (min-width: 48em) {
-//   :root {
-//     --sidebar-width: 15rem;
-//   }
-  
+@media (min-width: 48em) {
+  :root {
+    --sidebar-width: 15rem;
+  }
+  .content {
+    margin-left: var(--sidebar-width);
+  }
+}
 //   main.content {
 //     margin-left: 15rem;      /* same as your sidebar width */
 //     width: calc(100% - 20rem);
