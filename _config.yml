@@ -424,6 +424,6 @@ jekyll_compose:
         social media previews, etc.
       image:
         path: /assets/img/chandrawebb2_ngc346_jwst_hst.jpg
-      # links:
-      #   - title: Project Link
-      #     url: https://example.com
+      links:
+        - title: Project Link
+          url: https://example.com
