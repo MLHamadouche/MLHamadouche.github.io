@@ -13,9 +13,30 @@
   }
 }
 
-:root {
-  --sidebar-width: 19rem; // adjust to taste (16–20rem is typical)
+@media (min-width: 64em) {
+  :root {
+    --sidebar-width: 19rem;
+  }
+
+  .drawer,
+  .drawer-toggle,
+  .drawer-backdrop {
+    display: none !important;
+  }
+
+  .content {
+    margin-left: var(--sidebar-width);
+  }
 }
+
+@media (min-width: 64em) {
+  .drawer-toggle,
+  .menu-toggle,
+  #_menu {
+    display: none !important;
+  }
+}
+
 
 .research-grid {
   display: grid;
