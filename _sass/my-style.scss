@@ -16,8 +16,8 @@
 .my-sidebar-social {
   display: flex;
   justify-content: center;
-  gap: 1em;
-  // margin-top: 3em;
+  // gap: 1em;
+  margin-top: 3em;
   // padding-top: 1em;
   // border-top: 1px solid #ccc; /* optional separator line */
   gap: 1.5em;
@@ -34,6 +34,14 @@
 
 .my-sidebar-social a img:hover {
   transform: scale(1.2);
+}
+.my-sidebar-social a {
+  text-decoration: none; /* remove underline */
+  position: relative;    /* reset for pseudo-elements */
+}
+
+.my-sidebar-social a::after {
+  content: none; /* remove any arrow or pseudo content */
 }
 // :root {
 //     --sidebar-width: 15rem;
