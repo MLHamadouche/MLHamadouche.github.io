@@ -13,7 +13,7 @@
   }
 }
 
-.sidebar-social-icons {
+.my-sidebar-social {
   display: flex;
   justify-content: center;
   gap: 1em;
@@ -22,13 +22,13 @@
   border-top: 1px solid #ccc; /* optional separator line */
 }
 
-.sidebar-social-icons a img {
+.my-sidebar-social a img {
   width: 32px;
   height: 32px;
   transition: transform 0.2s;
 }
 
-.sidebar-social-icons a img:hover {
+.my-sidebar-social a img:hover {
   transform: scale(1.2);
 }
 // :root {
