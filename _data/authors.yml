@@ -24,11 +24,11 @@ author1:
     #   1x: "/assets/img/me.png"
       # 2x: "https://via.placeholder.com/256x256"
 
-  social:
-    orcid: "0000-0001-6763-5551"
-    github: "MLHamadouche"
-    email:  "mhamadouche@umass.edu"
-    linkedin:  "massissilia-hamadouche-795358114"
+  # social:
+  #   orcid: "0000-0001-6763-5551"
+  #   github: "MLHamadouche"
+  #   email:  "mhamadouche@umass.edu"
+  #   linkedin:  "massissilia-hamadouche-795358114"
 
 # Another author (optional)
 # author2:
