@@ -85,11 +85,13 @@ social:
   github:  MLHamadouche
   orcid:  0000-0001-6763-5551
   # orcid: 0000-0002-1825-0097
+  email: mhamadouche@umass.edu
+  linkedin: massissilia-hamadouche
 
-links:
-    title: orcid
-    url: https://orcid.org/0000-0001-6763-5551
-    icon: /assets/img/ORCID-iD_icon_32x32.png
+# links:
+#     title: orcid
+#     url: https://orcid.org/0000-0001-6763-5551
+#     icon: /assets/img/ORCID-iD_icon_32x32.png
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -147,6 +149,9 @@ defaults:
       accent_image:
         background:    rgb(32,32,32)
         overlay:       false
+      sidebar-extra:     values:
+      sidebar_extra: |
+        {% include my-sidebar-social.html %}
 
   # Don't include documents in assets in the sitemap
   - scope:
