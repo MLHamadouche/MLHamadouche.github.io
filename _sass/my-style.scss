@@ -13,17 +13,11 @@
   }
 }
 
-.my-sidebar-social {
-  display: flex;
+.index-footer {
+ display: flex;
   justify-content: center;
-  // gap: 1em;
-  margin-top: 3em;
-  // padding-top: 1em;
-  // border-top: 1px solid #ccc; /* optional separator line */
-  gap: 1.5em;
-  padding: 2em 0;
-  border-top: 1px solid #ccc; /* optional line above footer */
-  background-color: #f8f8f8; /* optional subtle background */
+  margin-top: 4rem;
+  padding-bottom: 2rem;
 }
 
 .my-sidebar-social a img {
@@ -33,7 +27,7 @@
 }
 
 .my-sidebar-social a img:hover {
-  transform: scale(1.2);
+  transform: scale(1.15);
 }
 .my-sidebar-social a {
   text-decoration: none; /* remove underline */
