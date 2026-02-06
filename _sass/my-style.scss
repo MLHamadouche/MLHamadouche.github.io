@@ -34,7 +34,7 @@
   position: relative;    /* reset for pseudo-elements */
 }
 
-.my-sidebar-social a img ::after {
+.my-sidebar-social a::after {
   content: none; /* remove any arrow or pseudo content */
 }
 
@@ -45,8 +45,8 @@
   padding-right: 0 !important;
 }
 
-.my-sidebar-social a img ::after,
-.my-sidebar-social a img ::before {
+.my-sidebar-social a::after,
+.my-sidebar-social a::before {
   content: none !important;
 }
 // :root {
